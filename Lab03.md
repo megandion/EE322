@@ -1,6 +1,6 @@
 ## Lab 03 Results
 
-During the lab, I followed the Lesson 3 steps on Prof. Lu's GitHub repository to setup my RaspberryPi. Screenshots of the commands are shown below.
+During the lab, I followed the Lesson 3 steps on Prof. Lu's GitHub repository on my RaspberryPi. Images of the commands are shown below.
 
 ** Results **
 ![IMG_4531](https://github.com/megandion/EE322/assets/117099021/42122a38-0ca5-467a-8d5d-fc54d9d811af)
