@@ -1,6 +1,6 @@
 ## Lab 05 Results
 
-During the lab, I followed the Lesson 5 steps on Prof. Lu's GitHub repository to setup my RaspberryPi. Screenshots of my desktop are shown below.
+During the lab, I followed the Lesson 5 steps on Prof. Lu's GitHub repository on my RaspberryPi. Images of my monitor are shown below.
 
 **Results**
 ![IMG_4577](https://github.com/megandion/EE322/assets/117099021/0909c398-dd05-4a44-bca2-46edb7d4693d)
