@@ -1,6 +1,6 @@
 ## Lab 09 Results
 
-During the lab, I followed the Lesson 6 steps on Prof. Lu's GitHub repository on my RaspberryPi. Images of my monitor are shown below.
+During the lab, I followed the Lesson 9 steps on Prof. Lu's GitHub repository on my RaspberryPi. Images of my monitor are shown below.
 
 **Results**
 ![IMG_4621](https://github.com/megandion/EE322/assets/117099021/17f9cdca-f054-4a31-9f1f-0e60d00e7df0)
