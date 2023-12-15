@@ -1,4 +1,4 @@
-## Lab 05 Results
+## Lab 06 Results
 
 During the lab, I followed the Lesson 6 steps on Prof. Lu's GitHub repository on my RaspberryPi. Images of my monitor are shown below.
 
